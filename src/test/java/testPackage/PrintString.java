@@ -6,6 +6,7 @@ public class PrintString {
 	{
 		
 		System.out.println("before making branch");
+		System.out.println("after switching to DemoHOmePage");
 	}
 	
 
